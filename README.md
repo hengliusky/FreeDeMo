@@ -9,7 +9,7 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 <!--We propose ConsistI2V, a diffusion-based method to enhance visual consistency for I2V generation. Specifically, we introduce (1) spatiotemporal attention over the first frame to maintain spatial and motion consistency, (2) noise initialization from the low-frequency band of the first frame to enhance layout consistency. These two approaches enable ConsistI2V to generate highly consistent videos.
 <img src="https://tiger-ai-lab.github.io/ConsistI2V/static/images/consisti2v_main.png" alt="ConsistI2V">
 -->
-<img src="https://github.com/hengliusky/FreeDeMo/assets/example/show.png" alt="FreeDeMo">
+<img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
 
 
 ## Environment Setup
