@@ -14,6 +14,44 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 Below, we present some of the effects achieved through our work.
 <img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250px">
+       <img src="assets/example/004.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/005.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/006.png" width="160"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>a girl is smiling,a boy is nodding up and down.</b><br/>
+      </td>
+      <td align="center">
+        <b>a girl is smiling,a dog is sticking out its tongue.</b><br/>
+      </td>
+      <td align="center">
+       <b>a girl is smiling,a white cat is nodding,a yellow dog is sticking out its tongue.</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/example/004.gif" width="160"/>
+      </td>
+      <td align="center">
+        <img src="assets/example/005.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/006.gif" width="160"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
