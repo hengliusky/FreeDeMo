@@ -43,13 +43,13 @@ We also present some I2V videos.
     </tr>
     <tr>
       <td align="center">
-        <img src="assets/example/004.gif" width="160"/>
+        <img src="assets/example/003_loop.gif" width="160"/>
       </td>
       <td align="center">
-        <img src="assets/example/005.gif" width="160"/>
+        <img src="assets/example/005_loop.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/006.gif" width="160"/>
+         <img src="assets/example/006_loop.gif" width="160"/>
       </td>
     </tr>
   </table>
