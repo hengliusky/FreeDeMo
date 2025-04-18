@@ -67,7 +67,7 @@ conda activate freeDeMo
 ```
 
 ## Inference
-The pretrained model we use is based on [ConsistI2V](https://huggingface.co/TIGER-Lab/ConsistI2V/tree/main), and when using our method, you will also need to download the weights for [GroundingDino](https://github.com/IDEA-Research/GroundingDINO) and [segment-anything](https://github.com/facebookresearch/segment-anything). After downloading these weights, you can run the sampling script using the following command:
+Although the pre-trained model we used is based on [ConsistI2V](https://huggingface.co/TIGER-Lab/ConsistI2V/tree/main), any other pre-trained video diffusion generation model can be used here. If you want to deploy our method, you will also need to download the weights for [GroundingDino](https://github.com/IDEA-Research/GroundingDINO) and [segment-anything](https://github.com/facebookresearch/segment-anything). After downloading these weights, you can run the sampling script using the following command:
 ```
 python scripts/animate_seg.py \
     --inference_config configs/inference/inference_test.yaml \
