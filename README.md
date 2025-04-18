@@ -11,9 +11,12 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 <img src="https://tiger-ai-lab.github.io/ConsistI2V/static/images/consisti2v_main.png" alt="ConsistI2V">
 -->
 <img src="assets/example/model.png" alt="FreeDeMo">
+
+# Results
 Below, we present some of the effects achieved through our work.
 <img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
 
+We also present some videos.
 <div align="center">
   <table>
     <tr>
