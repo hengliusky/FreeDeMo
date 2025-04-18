@@ -16,12 +16,12 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 Below, we present some of the effects achieved through our work.
 <img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
 
-We also present some videos.
+We also present some I2V videos.
 <div align="center">
   <table>
     <tr>
       <td align="center" width="250px">
-       <img src="assets/example/004.png" width="160"/>
+       <img src="assets/example/003.png" width="160"/>
       </td>
       <td align="center" width="250px">
         <img src="assets/example/005.png" width="160"/>
