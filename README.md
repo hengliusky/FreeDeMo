@@ -27,7 +27,7 @@ We also present some I2V videos.
         <img src="assets/example/005.png" width="160"/>
       </td>
       <td align="center" width="250px">
-        <img src="assets/example/006.png" width="160"/>
+        <img src="assets/example/007.png" width="160"/>
       </td>
     </tr>
     <tr>
@@ -38,7 +38,7 @@ We also present some I2V videos.
         <b>a girl is smiling,a dog is sticking out its tongue.</b><br/>
       </td>
       <td align="center">
-       <b>a girl is smiling,a white cat is nodding,a yellow dog is sticking out its tongue.</b>
+       <b>a dog is barking,a chicken is turning back.</b>
       </td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@ We also present some I2V videos.
         <img src="assets/example/005_loop.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/006_loop.gif" width="160"/>
+         <img src="assets/example/007.gif" width="160"/>
       </td>
     </tr>
   </table>
