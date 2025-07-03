@@ -117,7 +117,7 @@ sh assets/example/1_inference.sh
 
 ## Dataset
 Our benchmark multi-subject MS-I2V dataset contains four categories: 13 human-animal pairs, 82 interspecies animal groups, 24 conspecific animal pairs, and
-14 human duos. It can be downloaded at [here](https://pan.baidu.com/s/1uInUEczlg4w2Z9dlSyUfPQ?pwd=avmu 提取码: avmu).
+14 human duos. It can be downloaded at [here](https://pan.baidu.com/s/1uInUEczlg4w2Z9dlSyUfPQ?pwd=avmu).
 
 ## Acknowledgements
 Our codebase is built upon [ConsistI2V](https://github.com/TIGER-AI-Lab/ConsistI2V), [GroundingDino](https://github.com/IDEA-Research/GroundingDINO). Thanks for open-sourcing.
