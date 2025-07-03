@@ -47,7 +47,7 @@ We also present some I2V videos of our FreeDeMo.
        <b>a dog is barking,a chicken is turning back.</b>
       </td>
       <td align="center">
-       <b>a cat is walking forward,a dog is runing.</b>
+       <b>a cat is walking forward,a dog is running.</b>
       </td>
       <td align="center">
        <b>the left duck is swimming right, the middle duck is pecking at its feathers, the bottom duck is swimming upwards.</b>
@@ -73,7 +73,7 @@ We also present some I2V videos of our FreeDeMo.
   </table>
 </div>
 
-## GT videos for FVD/FID metrics
+## Ground-truth videos for FVD/FID
 <div align="center">
 <table>
     <tr>
@@ -114,6 +114,10 @@ We have several examples in the assets directory that you can run the script wit
 ```
 sh assets/example/1_inference.sh
 ```
+
+## Dataset
+Our benchmark multi-subject MS-I2V dataset contains four categories: 13 human-animal pairs, 82 interspecies animal groups, 24 conspecific animal pairs, and
+14 human duos. It can be downloaded at [here].
 
 ## Acknowledgements
 Our codebase is built upon [ConsistI2V](https://github.com/TIGER-AI-Lab/ConsistI2V), [GroundingDino](https://github.com/IDEA-Research/GroundingDINO). Thanks for open-sourcing.
