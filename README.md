@@ -30,7 +30,10 @@ We also present some I2V videos of our FreeDeMo.
         <img src="assets/example/007.png" width="160"/>
       </td>
       <td align="center" width="250px">
-        <img src="assets/example/catdog_0001.jpg" width="160"/>
+        <img src="assets/example/catdog_0001.png" width="160"/>
+      </td>
+      <td align="center" width="250px">
+        <img src="assets/example/duck3_0001.png" width="160"/>
       </td>
     </tr>
     <tr>
@@ -46,6 +49,9 @@ We also present some I2V videos of our FreeDeMo.
       <td align="center">
        <b>a cat is walking forward,a dog is runing.</b>
       </td>
+      <td align="center">
+       <b>the left duck is swimming right, the middle duck is pecking at its feathers, the bottom duck is swimming upwards.</b>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -59,6 +65,9 @@ We also present some I2V videos of our FreeDeMo.
       </td>
       <td align="center">
          <img src="assets/example/catdog.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/duck3.gif" width="160"/>
       </td>
     </tr>
   </table>
