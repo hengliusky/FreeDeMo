@@ -73,6 +73,16 @@ We also present some I2V videos of our FreeDeMo.
   </table>
 </div>
 
+## GT videos for FVD/FID metrics
+<div align="center">
+<table>
+    <tr>
+      <td align="center">
+        <img src="assets/example/005_loop.gif" width="160"/>
+      </td>
+   </tr>
+</table>
+</div>
 
 ## Environment Setup
 Prepare codebase and Conda environment using the following commands:
