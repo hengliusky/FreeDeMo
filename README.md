@@ -16,7 +16,7 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 Below, we present some of the effects achieved through our work.
 <img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
 
-We also present some I2V videos.
+We also present some I2V videos of our FreeDeMo.
 <div align="center">
   <table>
     <tr>
@@ -29,6 +29,9 @@ We also present some I2V videos.
       <td align="center" width="250px">
         <img src="assets/example/007.png" width="160"/>
       </td>
+      <td align="center" width="250px">
+        <img src="assets/example/catdog_0001.jpg" width="160"/>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -40,6 +43,9 @@ We also present some I2V videos.
       <td align="center">
        <b>a dog is barking,a chicken is turning back.</b>
       </td>
+      <td align="center">
+       <b>a cat is walking forward,a dog is runing.</b>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -50,6 +56,9 @@ We also present some I2V videos.
       </td>
       <td align="center">
          <img src="assets/example/007.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/catdog.gif" width="160"/>
       </td>
     </tr>
   </table>
