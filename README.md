@@ -67,7 +67,7 @@ We also present some I2V videos of our FreeDeMo.
          <img src="assets/example/catdog.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/duck3.gif" width="160"/>
+         <img src="assets/example/3duck.gif" width="160"/>
       </td>
     </tr>
   </table>
@@ -84,7 +84,7 @@ We also present some I2V videos of our FreeDeMo.
         <img src="assets/example/dogbird.gif" width="160"/>
       </td>
       <td align="center">
-        <img src="assets/example/babydog.gif" width="160"/>
+        <img src="assets/example/girl_dog.gif" width="160"/>
       </td>
    </tr>
 </table>
