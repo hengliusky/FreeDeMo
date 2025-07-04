@@ -78,10 +78,10 @@ We also present some I2V videos of our FreeDeMo.
 <table>
     <tr>
       <td align="center">
-        <img src="assets/example/3.gif" width="160"/>
+        <img src="assets/example/cat_snake.gif" width="160"/>
       </td>
       <td align="center">
-        <img src="assets/example/dogbird.gif" width="160"/>
+        <img src="assets/example/two_giraffes.gif" width="160"/>
       </td>
       <td align="center">
         <img src="assets/example/girl_dog.gif" width="160"/>
