@@ -20,6 +20,7 @@ We also present some I2V videos of our FreeDeMo.
 <div align="center">
   <table>
     <tr>
+      <td align="center" width="120"><b>Reference Image</b></td>
       <td align="center" width="250px">
        <img src="assets/example/003.png" width="160"/>
       </td>
@@ -37,6 +38,7 @@ We also present some I2V videos of our FreeDeMo.
       </td>
     </tr>
     <tr>
+      <td align="center" width="120"><b>Text Prompt</b></td>
       <td align="center">
         <b>a girl is smiling,a boy is nodding up and down.</b><br/>
       </td>
@@ -54,6 +56,25 @@ We also present some I2V videos of our FreeDeMo.
       </td>
     </tr>
     <tr>
+      <td align="center" width="120"><b>FreeDeMo(Ours)</b></td>
+      <td align="center">
+        <img src="assets/example/003_loop.gif" width="160"/>
+      </td>
+      <td align="center">
+        <img src="assets/example/005_loop.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/007.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/catdog.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/3duck.gif" width="160"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Wan2.1-14B</b></td>
       <td align="center">
         <img src="assets/example/003_loop.gif" width="160"/>
       </td>
