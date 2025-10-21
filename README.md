@@ -109,6 +109,24 @@ We also present some I2V videos of our FreeDeMo.
          <img src="assets/example/Hunyuan_132.gif" width="160"/>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="120"><b>CogVideoX</b></td>
+      <td align="center">
+        <img src="assets/example/CogVideo_026.gif" width="160"/>
+      </td>
+      <td align="center">
+        <img src="assets/example/CogVideo_051.gif" width="160"/>
+      </td>
+          <!-- <td align="center">
+             <img src="assets/example/007.gif" width="160"/>
+          </td> -->
+      <td align="center">
+         <img src="assets/example/CogVideo_019.gif" width="160"/>
+      </td>
+      <td align="center">
+         <img src="assets/example/CogVideo_132.gif" width="160"/>
+      </td>
+    </tr>
   </table>
 </div>
 
