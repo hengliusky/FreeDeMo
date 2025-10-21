@@ -27,9 +27,9 @@ We also present some I2V videos of our FreeDeMo.
       <td align="center" width="250px">
         <img src="assets/example/005.png" width="160"/>
       </td>
-      <td align="center" width="250px">
-        <img src="assets/example/007.png" width="160"/>
-      </td>
+          <!-- <td align="center" width="250px">
+            <img src="assets/example/007.png" width="160"/>
+          </td> -->
       <td align="center" width="250px">
         <img src="assets/example/catdog_0001.png" width="160"/>
       </td>
@@ -45,9 +45,9 @@ We also present some I2V videos of our FreeDeMo.
       <td align="center">
         <b>a girl is smiling,a dog is sticking out its tongue.</b><br/>
       </td>
-      <td align="center">
-       <b>a dog is barking,a chicken is turning back.</b>
-      </td>
+          <!-- <td align="center">
+           <b>a dog is barking,a chicken is turning back.</b>
+          </td> -->
       <td align="center">
        <b>a cat is walking forward,a dog is running.</b>
       </td>
@@ -63,9 +63,9 @@ We also present some I2V videos of our FreeDeMo.
       <td align="center">
         <img src="assets/example/005_loop.gif" width="160"/>
       </td>
-      <td align="center">
-         <img src="assets/example/007.gif" width="160"/>
-      </td>
+          <!-- <td align="center">
+             <img src="assets/example/007.gif" width="160"/>
+          </td> -->
       <td align="center">
          <img src="assets/example/catdog.gif" width="160"/>
       </td>
@@ -76,19 +76,37 @@ We also present some I2V videos of our FreeDeMo.
     <tr>
       <td align="center" width="120"><b>Wan2.1-14B</b></td>
       <td align="center">
-        <img src="assets/example/003_loop.gif" width="160"/>
+        <img src="assets/example/Wan2.1_026.gif" width="160"/>
       </td>
       <td align="center">
-        <img src="assets/example/005_loop.gif" width="160"/>
+        <img src="assets/example/Wan2.1_051.gif" width="160"/>
+      </td>
+          <!-- <td align="center">
+             <img src="assets/example/007.gif" width="160"/>
+          </td> -->
+      <td align="center">
+         <img src="assets/example/Wan2.1_019.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/007.gif" width="160"/>
+         <img src="assets/example/Wan2.1_132.gif" width="160"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Hunyuan-13B</b></td>
+      <td align="center">
+        <img src="assets/example/Wan2.1_026.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/catdog.gif" width="160"/>
+        <img src="assets/example/Wan2.1_051.gif" width="160"/>
+      </td>
+          <!-- <td align="center">
+             <img src="assets/example/007.gif" width="160"/>
+          </td> -->
+      <td align="center">
+         <img src="assets/example/Wan2.1_019.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/3duck.gif" width="160"/>
+         <img src="assets/example/Wan2.1_132.gif" width="160"/>
       </td>
     </tr>
   </table>
