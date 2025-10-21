@@ -94,19 +94,19 @@ We also present some I2V videos of our FreeDeMo.
     <tr>
       <td align="center" width="120"><b>Hunyuan-13B</b></td>
       <td align="center">
-        <img src="assets/example/Wan2.1_026.gif" width="160"/>
+        <img src="assets/example/Hunyuan_026.gif" width="160"/>
       </td>
       <td align="center">
-        <img src="assets/example/Wan2.1_051.gif" width="160"/>
+        <img src="assets/example/Hunyuan_051.gif" width="160"/>
       </td>
           <!-- <td align="center">
              <img src="assets/example/007.gif" width="160"/>
           </td> -->
       <td align="center">
-         <img src="assets/example/Wan2.1_019.gif" width="160"/>
+         <img src="assets/example/Hunyuan_019.gif" width="160"/>
       </td>
       <td align="center">
-         <img src="assets/example/Wan2.1_132.gif" width="160"/>
+         <img src="assets/example/Hunyuan_132.gif" width="160"/>
       </td>
     </tr>
   </table>
