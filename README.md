@@ -13,15 +13,16 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 <img src="assets/example/model.png" alt="FreeDeMo">
 
 # Results
-In this table, we compare state-of-the-art methods in terms of CTC-PSNR, LPIPS, FVD, and trainable/total parameters. The best results are highlighted in blue bold, while the second-best results are in green bold.
+<font size="13">In this table, we compare state-of-the-art methods in terms of CTC-PSNR, LPIPS, FVD, and trainable/total parameters. The best results are highlighted in blue bold, while the second-best results are in green bold.</font>
 <div align="center">
   <img src="assets/example/index.png" width="100%"/>
 </div>
 Below, we present some of the effects achieved through our work.
 <img src="https://github.com/hengliusky/FreeDeMo/blob/main/assets/example/show.png" alt="FreeDeMo">
-<div align="center">
-  <img src="assets/example/extra - 1021.pdf "width="160"/>
-</div>
+<!-- <div align="center">
+  <img src="assets/example/image1.png "width="100%"/>
+  <img src="assets/example/image2.png "width="100%"/>
+</div> -->
 We present some comparisons of image-to-video (I2V) generation results from our FreeDeMo with those from Wan2.1-14B, Hunyuan-13B and CogVideoX.
 <div align="center">
   <table>
