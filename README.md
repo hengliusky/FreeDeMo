@@ -13,7 +13,7 @@ This repo contains the codebase for "FreeDeMo: A Training-Free Decoupled Diffusi
 <img src="assets/example/model.png" alt="FreeDeMo">
 
 # Results
-<font size="13">In this table, we compare state-of-the-art methods in terms of CTC-PSNR, LPIPS, FVD, and trainable/total parameters. The best results are highlighted in blue bold, while the second-best results are in green bold.</font>
+<font size="13">In this table, we compare state-of-the-art methods in terms of CTC-PSNR, LPIPS, FVD, and Trainable/Total parameters. The best results are highlighted in blue bold, while the second-best results are in green bold.</font>
 <div align="center">
   <img src="assets/example/index.png" width="100%"/>
 </div>
